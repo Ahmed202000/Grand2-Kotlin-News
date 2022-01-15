@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinNews</string>
+    <string name="details_news">Details News</string>
+    <string name="news">News</string>
+</resources>
