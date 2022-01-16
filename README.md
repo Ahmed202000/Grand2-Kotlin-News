@@ -20,7 +20,7 @@ The exhaustive documentation, code samples and libraries will help you get up an
 
 ## Screenshot
  
-<img src="https://raw.githubusercontent.com/Ahmed202000/Kotlin-News/86635643632a0e20398c55cc7862cc9ea19d88c8/screen_shot/m.jpeg" width="200" height="400"></a>
+<img src="https://github.com/Ahmed202000/Grand2-Kotlin-News/blob/master/screen_shot/m.jpeg?raw=true" width="200" height="400"></a>
 
  
 <img src="https://raw.githubusercontent.com/Ahmed202000/Kotlin-News/86635643632a0e20398c55cc7862cc9ea19d88c8/screen_shot/mm.jpeg" width="200" height="400"></a>
