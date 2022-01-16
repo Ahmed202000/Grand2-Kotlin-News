@@ -1,47 +1,62 @@
 # Kotlin-News
 # Android Challenge Job
-A mobile app for displaying real time Premier League Using APIs.(football-data.org)
+A mobile app for displaying real time Premier League Using APIs.(NewData-Reddit-data.org)
 
-## Challenge description Job (Orcas)
-Access to the top football competitions is and will be free forever as this was the initial purpose to setup the project.
+## Challenge description Job (2Grand)
+Access to the top KotlinNew competitions is and will be free forever as this was the initial purpose to setup the project.
+https://www.reddit.com/r/kotlin/.json
 
 ## Additional Info About API Documentation
-* [football](https://www.football-data.org/documentation/api)
+* [reddit](https://www.reddit.com/r/kotlin/.json)
  
- football-data.org provides football data and statistics (live scores, fixtures, tables, squads, lineups/subs, etc.) in a machine-readable way.
+Reddit News in a machine-readable way.
 
-Our free (RESTful) API in JSON representation is used by thousands of developers to power websites and mobile apps with football data.
+Our free (RESTful) API in JSON representation is used by thousands of developers to power websites and mobile apps with redditNew data.
 
-Access to the top football competitions is and will be free forever as this was the initial purpose to setup the project.
+Access to the top redditNew competitions is and will be free forever as this was the initial purpose to setup the project.
 However if you need more competitions (or in-depth data), we have several paid plans available to serve your needs.
 
 The exhaustive documentation, code samples and libraries will help you get up and running quickly. 
 
 ## Screenshot
-<img src="https://user-images.githubusercontent.com/22521791/69773224-e8683280-119a-11ea-8265-84b25a39ff78.png" width="200" height="400"></a>
+ 
+<img src="https://raw.githubusercontent.com/Ahmed202000/Kotlin-News/86635643632a0e20398c55cc7862cc9ea19d88c8/screen_shot/m.jpeg" width="200" height="400"></a>
+
+ 
+<img src="https://raw.githubusercontent.com/Ahmed202000/Kotlin-News/86635643632a0e20398c55cc7862cc9ea19d88c8/screen_shot/mm.jpeg" width="200" height="400"></a>
+ 
  
 ## Specifications
-- Caching for showing the last places offline.
-- portrait and landscape.
-- using MVC-MVVM
-- Using Usecases (part of clean architecture)
-- Partly include comments.
-- Reactive code
+-
+- kotlin .
+- High code quality and reusability .
+- Clean architecture using design pattern (MVVM or MVI .)
+- Proper unit, ideally measured .
+- Care about the internet connection and the status for each API request .
+- Some type of caching is necessary like if there's no internet connection so you'll
+- list the previous cached list .
+- The UI is fitting in different screen resolutions .
+- Data Binding if you'll use XML for UI .
+- Git flow .
+- We prefer to code review commit per commit, and to do so, we will need ideally
+- a private GitHub/Bitbucket repo
+- Modularity as design pattern (Each feature in a separate module .)
+- Using any tool for the caching feature .
+- Navigation Component
 
 ## Languages, libraries and tools used
 
  * [androidX libraries](https://developer.android.com/jetpack/androidx)
  * [Android LifeCycle](https://developer.android.com/topic/libraries/architecture)
  * [Glide](https://github.com/bumptech/glide)
- * [Room](https://developer.android.com/jetpack/androidx/releases/room)
  * [Retrofit2](https://github.com/square/retrofit)
  * [json](https://github.com/nlohmann/json)
 
 ## Requirements
-- min SDK 19
+- min SDK 24
 
 ## Known Issues 
- - Sometimes images won't load as the quota on Football Api is very limited.
+ - Sometimes images won't load as the quota on redditNew Api is very limited.
 
 ## Implementation
 
@@ -70,7 +85,7 @@ We use the Architecture Components library to instantiate our ViewModel in order
 
 
 ## License
-Copyright (c) 2019 Ahmed omar
+Copyright (c) 2022 Ahmed202000
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
